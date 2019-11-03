@@ -14,10 +14,10 @@ As a part of the MEAM 620 Advanced Robotics Course, Matlab code for the followin
 ### Some Results
 
 - Spiral
-   <img src="Gifs/circle.gif" width="320" title="Spiral">  
+<img src="Gifs/circle.gif" width="320" title="Spiral">  
 
 - Diamond
-   <img src="Gifs/diamond.gif" width="320" title="Diamond">
+<img src="Gifs/diamond.gif" width="320" title="Diamond">
 
 
 ## Path Planning and Trajectory Generation
@@ -28,7 +28,7 @@ As a part of the MEAM 620 Advanced Robotics Course, Matlab code for the followin
 #### Minimum Acceleration Trajectory
 
 <p align="centre">
-  <img src="Gifs/traj_planner.gif"  width="600">
+   <img src="Gifs/traj_planner.gif"  width="600">
 </p>
 
 -Path planning using A\*
