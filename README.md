@@ -13,7 +13,7 @@ As a part of the MEAM 620 Advanced Robotics Course, Matlab code for the followin
 
 ### Some Results
 
-- Spiral
-<img src="Gifs/circle.gif" alt="step" width="320"> 
+- Spiral                                           -Circle
+<img src="Gifs/circle.gif" alt="step" width="320"> <img src="Gifs/diamond.gif" alt="step" width="320">
 
 
