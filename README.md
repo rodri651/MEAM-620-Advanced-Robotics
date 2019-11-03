@@ -30,5 +30,5 @@ As a part of the MEAM 620 Advanced Robotics Course, Matlab code for the followin
 #### Minimum Acceleration Trajectory
 
 <p align="centre">
-  <img src="Gifs/astar_on_trj.gif" alt="step" width="320">
+  <img src="Gifs/traj_planner.gif"  width="600">
 </p>
