@@ -48,18 +48,18 @@ Matlab Code for the following was written
 Note: Ground truth estimates were taken from Vicon data(blue)
 - Vision based Position and Orientation
 <p align="centre">
-  <img src="performance\ Plots/project2_1.PNG" width="950"> 
+  <img src="performance_plots/project2_1.PNG" width="950"> 
 </p>
 
 - EKF based position, velocity and orientation estimates
 <p align="centre">
-  <img src="performance\ Plots/position.jpg" width="560"> 
+  <img src="performance_plots/position.jpg" width="560"> 
 </p>
 <p align="centre">
-  <img src="performance\ Plots/orientation.jpg" width="560"> 
+  <img src="performance_plots/orientation.jpg" width="560"> 
 </p>
 <p align="centre">
-  <img src="performance\ Plots/velocity.jpg" width="560"> 
+  <img src="performance_plots/velocity.jpg" width="560"> 
 </p>
 
 
