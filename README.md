@@ -14,7 +14,7 @@ As a part of the MEAM 620 Advanced Robotics Course, Matlab code for the followin
 ### Some Results
 
 
-<img src="Gifs/circle.gif" width="320" title="Spiral"><img src="Gifs/diamond.gif" width="320" title="Diamond">
+<img src="Gifs/circle.gif" width="320" title="Spiral">  <img src="Gifs/diamond.gif" width="320" title="Diamond">
 
 
 ## Path Planning and Trajectory Generation
