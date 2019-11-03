@@ -15,11 +15,11 @@ As a part of the MEAM 620 Advanced Robotics Course, Matlab code for the followin
 
 - Spiral                                           
 <p align="centre">
-  <img src="Gifs/circle.gif" alt="step" width="320"> 
+  <img src="Gifs/circle.gif" width="320"> 
 </p>
 - Diamond
 <p align="centre">
-  <img src="Gifs/diamond.gif" alt="step" width="320">
+  <img src="Gifs/diamond.gif" width="320">
 </p>
 
 ## Path Planning and Trajectory Generation
@@ -32,3 +32,36 @@ As a part of the MEAM 620 Advanced Robotics Course, Matlab code for the followin
 <p align="centre">
   <img src="Gifs/traj_planner.gif"  width="600">
 </p>
+
+-Path planning using A\*
+-The path generated is then searched through for shorter paths while simultaneously checking for mid path collisions
+-Further a Minimum Acceleration trajectory generator is used over the smoothed path
+
+## Vision based pose and velocity estimates with Extended Kalman Filter
+
+Matlab Code for the following was written
+- Vision based 3D pose estimate
+- Vision based 3D(linear and angular) velocity estimate
+- Extended Kalman Filter
+
+### Some Results
+Note: Ground truth estimates were taken from Vicon data(blue)
+- Vision based Position and Orientation
+<p align="centre">
+  <img src="performance\ Plots/project2_1.PNG" width="950"> 
+</p>
+
+- EKF based position, velocity and orientation estimates
+<p align="centre">
+  <img src="performance\ Plots/position.jpg" width="560"> 
+</p>
+<p align="centre">
+  <img src="performance\ Plots/orientation.jpg" width="560"> 
+</p>
+<p align="centre">
+  <img src="performance\ Plots/velocity.jpg" width="560"> 
+</p>
+
+
+
+
